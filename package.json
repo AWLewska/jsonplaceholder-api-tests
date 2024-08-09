@@ -1,0 +1,25 @@
+{
+  "name": "jsonplaceholder-api-tests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AWLewska/jsonplaceholder-api-tests.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AWLewska/jsonplaceholder-api-tests/issues"
+  },
+  "homepage": "https://github.com/AWLewska/jsonplaceholder-api-tests#readme",
+  "devDependencies": {
+    "axios": "^1.7.3",
+    "jest": "^29.7.0",
+    "supertest": "^7.0.0"
+  }
+}
