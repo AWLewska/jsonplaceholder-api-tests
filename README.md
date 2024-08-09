@@ -16,8 +16,8 @@ Git
 **Running Tests**
 To run the tests, use the following npm command:
 
-bash
-Copy code
-npm test
+> bash
+> Copy code
+> npm test
 This will execute all the test files located in the tests directory.
  
